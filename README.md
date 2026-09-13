@@ -31,7 +31,7 @@ cd hugging-face-project
 - Lalu pastikan anda sedang ada di folder project
 jika belum gunakan cd <path folder project>
 
-- (Optional) Gunakan virtual environment
+- Gunakan virtual environment
 command :
 python -m venv .venv
 .venv\Scripts\activate
